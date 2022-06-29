@@ -7,4 +7,10 @@ public class VolleyballCoach implements Coach{
 		return "do 100 jumping jacks";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
